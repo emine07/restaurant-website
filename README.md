@@ -1,4 +1,4 @@
-# 🚀 Yeni Bir Proje, Yeni Bir Deneyim: Restoran Web Sitesi
+# 🚀 Yeni Bir Proje, Yeni Bir Deneyim: Restaurant Web Sitesi
 
 
 
