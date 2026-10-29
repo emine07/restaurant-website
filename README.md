@@ -1,10 +1,8 @@
 # 🚀 Yeni Bir Proje, Yeni Bir Deneyim: Restoran Web Sitesi
 
-<p align="center">
-  <img src="images/banner.jpg" alt="Restoran Web Sitesi Görseli" width="100%" onerror="this.style.display='none'">
-</p>
 
-Bir süredir üzerinde büyük bir keyifle çalıştığım ve kendimi geliştirmemi sağlayan **Restoran Web Sitesi** projesini tamamlamış bulunuyorum! Bu proje, öğrendiklerimi pratiğe dökmek ve gerçek dünya problemlerine çözümler üretmek adına harika bir serüven oldu.
+
+Bir süredir üzerinde büyük bir keyifle çalıştığım ve kendimi geliştirmemi sağlayan **Restaurant Web Sitesi** projesini tamamlamış bulunuyorum! Bu proje, öğrendiklerimi pratiğe dökmek ve gerçek dünya problemlerine çözümler üretmek adına harika bir serüven oldu.
 
 ---
 
@@ -38,9 +36,9 @@ Bu geliştirme süreci sadece kod yazmaktan ibaret değildi; kullanıcı deneyim
 
 ---
 
-### 🔗 Projenyi Deneyimleyin
+### 🔗 Projeyi Deneyimleyin
 
-Projeyi canlı ortamda test etmek veya kaynak kodlarını incelemek için aşağıdaki bağlantıları kullanabilirsiniz:
+
 
 
 
@@ -52,7 +50,8 @@ https://github.com/user-attachments/assets/23872d0a-3a83-4908-8233-a6361a49baaf
 
 
 
-*   📦 **GitHub Kaynak Kodu:** [<LinkableSpan url="https://github.com/emine07/restaurant-website" intent="restaurant-website kaynak kodlarını GitHub üzerinde inceleyin">GitHub Proje Linki</LinkableSpan>]
+*   📦 **GitHub Kaynak Kodu:**
+*   https://github.com/emine07/restaurant-website
 
 ---
 
@@ -60,8 +59,7 @@ https://github.com/user-attachments/assets/23872d0a-3a83-4908-8233-a6361a49baaf
 
 Yazılım alanında çalışan, sürekli öğrenen ve benzer projeler üreten meslektaşlarımla/arkadaşlarımla bağ kurmaktan mutluluk duyarım. Proje hakkındaki önerilerinizi, eleştirilerinizi veya deneyimlerinizi benimle paylaşabilirsiniz!
 
-*   **LinkedIn:** [<LinkableSpan url="https://www.linkedin.com/in/emineburnak/" intent="Emine Burnak'ın resmi LinkedIn profilini ziyaret edin">Emine Burnak</LinkableSpan>]
-*   **GitHub:** [<LinkableSpan url="https://github.com/emine07" intent="emine07 GitHub profil sayfasını açın">@emine07</LinkableSpan>]
+
 
 ---
 
