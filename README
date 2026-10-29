@@ -1,0 +1,42 @@
+# 🍔 Burger & Pizza Restaurant Website
+
+🚀 Yeni bir proje, yeni bir deneyim! 
+Bir süredir üzerinde çalıştığım **Burger & Pizza Restaurant Website** adlı projemi başarıyla tamamladım.
+
+🎯 **Projenin Amacı:**
+Modern web standartlarına uygun, tamamen duyarlı (Responsive) ve dinamik etkilere sahip profesyonel bir restoran web sitesi geliştirmek. Kullanıcı dostu bir arayüz ve akıcı animasyonlar sunarak modern bir işletmenin dijital kimliğini ve menüsünü en etkileyici şekilde yansıtmayı amaçladım.
+
+---
+
+## 📸 Ekran Kaydı / Demo
+*(Aşağıdaki alana Zight ile indirdiğiniz MP4 videonuzu sürükleyip bırakın)*
+
+[Buraya indirdiğiniz ekran kaydı videosunu sürükleyip bırakın]
+
+---
+
+🛠️ **Kullandığım Teknolojiler:**
+Web sitesinin mimarisi, saf web teknolojileri kullanılarak performanslı ve temiz kod standartlarında inşa edilmiştir:
+- **HTML5:** Semantik etiket yapısı (`<header>`, `<section>`, `<nav>`) ile SEO dostu döküman hiyerarşisi.
+- **CSS3 / Flexbox & Grid:** 
+  - Özel CSS Değişkenleri (`--main-color`, `--black-color`) ile kolay tema yönetimi.
+  - Kart yerleşimleri için esnek **CSS Grid** mimarisi.
+  - Cihaz uyumluluğu için gelişmiş **Media Queries** (Mobil, tablet ve masaüstü tam uyum).
+- **JavaScript (ES6+):** Optimize edilmiş global döküman dinleyicisi ile sayfa içi dinamik arama çubuğu ve açılır sepet paneli kontrolleri.
+- **Font Awesome (v7) & Google Fonts:** Modern ikon kütüphanesi ve "Poppins" yazı tipi ailesi entegrasyonu.
+
+💡 **Bu Süreçte Neler Öğrendim?**
+- **Gelişmiş CSS Grid & Flexbox:** Karmaşık restoran menüsü ve blog kartlarını tamamen esnek (responsive) bir yapıda hizalamayı derinlemesine deneyimledim.
+- **Dinamik UI/UX Bileşenleri:** Saf JavaScript kullanarak bellek sızıntılarını önleyen, yukarıdan akıcı bir şekilde açılan arama çubuğu ve sağdan kayarak gelen interaktif sepet paneli yapmayı öğrendim.
+- **Git & GitHub Yönetimi:** Proje dosyalarımı optimize etmeyi, temiz commit geçmişi oluşturmayı ve terminal (PowerShell) üzerinden depo yönetimini pekiştirdim.
+
+🔗 **Projeyi Görüntülemek İçin:**
+- **GitHub:** https://github.com/emine07/restaurant-website
+
+---
+
+Bu projede çalışmak, öğrendiklerimi pratiğe dökmek ve yazılım geliştirme becerilerimi geliştirmek için harika bir deneyim oldu. Öğrenmeye ve yeni projeler geliştirmeye hız kesmeden devam ediyorum.
+
+Yazılım alanında çalışan, becerilerini geliştiren ve benzer projeler üzerinde çalışan kişilerle bağlantı kurmaktan mutluluk duyarım. Deneyimlerinizi ve önerilerinizi paylaşabilirsiniz! 💻✨
+
+#Yazılım #YazılımGeliştirme #GitHub #Frontend #HTML5 #CSS3 #JavaScript #ResponsiveDesign
