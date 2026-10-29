@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/23872d0a-3a83-4908-8233-a6361a49baaf
 
 
 
-
+**LinkedIn:**  https://www.linkedin.com/in/emineburnak/
 
 *   📦 **GitHub Kaynak Kodu:**
 *   https://github.com/emine07/restaurant-website
